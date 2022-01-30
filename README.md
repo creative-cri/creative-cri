@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @creative-cri
 - 👀 I’m interested in Artifficial Intelligence
-- 🌱 I’m currently learning NLP, ML and Neural Networks
+- 🌱 I’m currently learning NLP, Chatbots creation with Python, ML, Deep Learning and Neural Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
