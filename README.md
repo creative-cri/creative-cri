@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artifficial Intelligence
 - 🌱 I’m currently learning AWS Machine Learning and Alexa 
 - 💞️ I’m looking for a full-time job in Artificial Intelligence / Data Science area.
-- 📫 How to reach me ...
+- 📫 How to reach me: creativecri3@gmail.com
 
 <!---
 creative-cri/creative-cri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
