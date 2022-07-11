@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @creative-cri
 - 👀 I’m interested in Artifficial Intelligence
-- 🌱 I’m currently learning AWS Machine Learning and Alexa 
+- 🌱 I’m currently learning Alexa 
 - 💞️ I’m looking for a full-time job in Artificial Intelligence / Data Science area.
 - 📫 How to reach me
 
