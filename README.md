@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @creative-cri
 - 👀 I’m interested in Artifficial Intelligence
-- 🌱 I’m currently learning for a job in Data Science / ML / AI area 
-- 💞️ I’m looking for 
+- 🌱 I’m currently learning LLM / MS Azure 
+- 💞️ I’m looking for a job in Data Science / ML / AI area
 - 📫 How to reach me
 
 <!---
