@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @creative-cri
 - 👀 I’m interested in Artifficial Intelligence
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning for a job in Data Science / ML / AI area 
 - 💞️ I’m looking for 
 - 📫 How to reach me
 
