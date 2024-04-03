@@ -8,18 +8,32 @@ creative-cri/creative-cri is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 PROFESSIONELLE FÄHIGKEITEN:
+
 	Betriebssysteme: Mac, Windows, Linux 
-	Textverarbeitungsprogramme: Microsoft Word 
+
+	Textverarbeitungsprogramme: Microsoft Word
+
 	Präsentationsprogramme: PowerPoint, Miro, Trello
+
 	Programmiersprachen: HTML, CSS, Python, SQL
+
 	Datenbankmanagementsysteme: MySQL, NoSQL, MongoDB, SQLite
+
 	Machine Learning: Pandas, Numpy, Scikit-Learn
+
 	Data Visualization: Power BI, Tableau, Seaborn, Matplotlib
-	Data Analyse: Excel, Power BI, Pandas , SPSS
+
+	Data Analyse: Excel, Power BI, Pandas, SPSS
+
 	Deep Learning: Tensorflow, Keras, PyTorch
+
 	NLP / LLM / Generative AI: NLTK, SpaCy, ChatGPT Prompting, Midjourney, DALL·E
+
 	Agilität: Scrum, Kanban
+
 	Code-Editor: Jupyter Notebook, Visual Studio Code
+
 	Mathematische Kenntnisse: Mathematical Statistic, Linear Algebra, Calculus
+
 	Weitere Tools: Git, Databricks, ETL, API, FastAPI, Streamlit, Snowflake, Microsoft Azure usw. 
 
