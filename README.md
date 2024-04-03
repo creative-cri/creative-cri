@@ -3,11 +3,11 @@
 
 PROFESSIONELLE FÄHIGKEITEN:
 
-	Betriebssysteme: Mac, Windows, Linux 
+- Betriebssysteme: Mac, Windows, Linux 
 
-	Textverarbeitungsprogramme: Microsoft Word
+-	Textverarbeitungsprogramme: Microsoft Word
 
-	Präsentationsprogramme: PowerPoint, Miro, Trello
+-	Präsentationsprogramme: PowerPoint, Miro, Trello
 
 	Programmiersprachen: HTML, CSS, Python, SQL
 
