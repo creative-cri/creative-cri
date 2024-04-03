@@ -9,27 +9,27 @@ PROFESSIONELLE FÄHIGKEITEN:
 
 -	Präsentationsprogramme: PowerPoint, Miro, Trello
 
-	Programmiersprachen: HTML, CSS, Python, SQL
+-	Programmiersprachen: HTML, CSS, Python, SQL
 
-	Datenbankmanagementsysteme: MySQL, NoSQL, MongoDB, SQLite
+-	Datenbankmanagementsysteme: MySQL, NoSQL, MongoDB, SQLite
 
-	Machine Learning: Pandas, Numpy, Scikit-Learn
+-	Machine Learning: Pandas, Numpy, Scikit-Learn
 
-	Data Visualization: Power BI, Tableau, Seaborn, Matplotlib
+-	Data Visualization: Power BI, Tableau, Seaborn, Matplotlib
 
-	Data Analyse: Excel, Power BI, Pandas, SPSS
+-	Data Analyse: Excel, Power BI, Pandas, SPSS
 
-	Deep Learning: Tensorflow, Keras, PyTorch
+-	Deep Learning: Tensorflow, Keras, PyTorch
 
-	NLP / LLM / Generative AI: NLTK, SpaCy, ChatGPT Prompting, Midjourney, DALL·E
+-	NLP / LLM / Generative AI: NLTK, SpaCy, ChatGPT Prompting, Midjourney, DALL·E
 
-	Agilität: Scrum, Kanban
+-	Agilität: Scrum, Kanban
 
-	Code-Editor: Jupyter Notebook, Visual Studio Code
+-	Code-Editor: Jupyter Notebook, Visual Studio Code
 
-	Mathematische Kenntnisse: Mathematical Statistic, Linear Algebra, Calculus
+-	Mathematische Kenntnisse: Mathematical Statistic, Linear Algebra, Calculus
 
-	Weitere Tools: Git, Databricks, ETL, API, FastAPI, Streamlit, Snowflake, Microsoft Azure usw. 
+-	Weitere Tools: Git, Databricks, ETL, API, FastAPI, Streamlit, Snowflake, Microsoft Azure usw. 
 
 <!---
 creative-cri/creative-cri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
