@@ -23,7 +23,7 @@ PROFESSIONELLE FÄHIGKEITEN:
 
 -	NLP / LLM / Generative AI: NLTK, SpaCy, ChatGPT Prompting, Midjourney, DALL·E
 
--	Agilität: Scrum, Kanban
+-	Agiles Project Management: Scrum, Kanban
 
 -	Code-Editor: Jupyter Notebook, Visual Studio Code
 
