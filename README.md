@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @creative-cri
 - 👀 I’m interested in Artifficial Intelligence, especially in NLP / LLM part of it, as I speak 6 languages and have a very good understanding of Linguistics
 
-PROFESSIONELLE FÄHIGKEITEN:
+Professional Skills: 
 
 - Betriebssysteme: Mac, Windows, Linux 
 
