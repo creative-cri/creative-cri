@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @creative-cri
-- 👀 I'm interested in Artificial Intelligence, particularly in NLP / LLM, as I have a strong understanding of Linguistics. Additionally, I enjoy creating CNN and classical Machine Learning Models.
+- 👀 I'm interested in Artificial Intelligence, particularly in NLP / LLM, as I have a strong understanding of Linguistics.
+- Additionally, I enjoy creating CNN and classical Machine Learning Models.
 
 Professional Skills: 
 
