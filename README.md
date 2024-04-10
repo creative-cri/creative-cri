@@ -30,7 +30,7 @@ Professional Skills:
 
 - Mathematical Skills: Mathematical Statistics, Linear Algebra, Calculus
 
-- Additional Tools: Git, Databricks, ETL, API, FastAPI, Streamlit, Snowflake, Microsoft Azure, etc.
+- Additional Tools: MLOps, Git, Databricks, ETL, API, FastAPI, Streamlit, Snowflake, Microsoft Azure, etc.
 
 <!---
 creative-cri/creative-cri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
