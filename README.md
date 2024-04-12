@@ -22,7 +22,7 @@ Professional Skills:
 
 - Deep Learning: Tensorflow, Keras, PyTorch
 
-- NLP / LLM / Generative AI: NLTK, SpaCy, ChatGPT Prompting, Midjourney, DALL·E
+- NLP / LLM / Generative AI: NLTK, SpaCy, ChatGPT Prompting, Hugging Face, Midjourney, DALL·E
 
 - Agile Project Management: Scrum, Kanban
 
