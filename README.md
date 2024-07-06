@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @creative-cri
 - 👀 I'm interested in Artificial Intelligence and have strong communication skills. 
-- I enjoy creating CNN, NLP / LLM, classical Machine Learning Models and do Exploratory Data Analysis within Web / E-commerce / Marketing and Real-Estate area. 
+- I enjoy creating Data Science Projects, classical Machine Learning Models and do Exploratory Data Analysis within Web / E-commerce / Marketing and Real-Estate area.
 
 Professional Skills: 
 
